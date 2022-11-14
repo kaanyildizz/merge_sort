@@ -1,7 +1,7 @@
 # merge_sort
 
-[16,21,11,8,12,22] -> Merge Sort
-Q1-)Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Q1-) [16,21,11,8,12,22] -> Merge Sort
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 
 1.adım:
@@ -34,4 +34,5 @@ Q1-)Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 [11,16,21]   [8,12,22]   --> [8,11,12,16,21,22]	
 	
 Q2-)Big-O gösterimini yazınız.
-	Big-O gösterimi : O(nlogn)
+
+Big-O gösterimi : O(nlogn)
